@@ -5,6 +5,7 @@ nav{
 width: 100%;
 height: 50px;
 background-color: brown;
+font-family: 'ephesis', cursive;
 }
 
 nav ul li{
